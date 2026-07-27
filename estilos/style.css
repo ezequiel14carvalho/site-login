@@ -39,7 +39,7 @@ section#login > div#formulario > h1 {
 
 section#login > div#img {
     display: block;
-    background: rgb(52, 44, 90) url('/img/fundo.jpg') left bottom no-repeat;
+    background: url('/img/fundo.jpg') left bottom no-repeat;
     height: 200px;
     background-size: cover;
 }
