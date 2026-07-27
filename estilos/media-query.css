@@ -1,2 +1,19 @@
-@charset 'UF-8';
+@charset 'UTF-8';
 
+@media screen and (min-width: 600px) {
+    section#login {
+        width: 80vw;
+    }
+
+    section#login > div#img {
+        float: left;
+        width: 30%;
+        height: 100%;
+    }
+
+    section#login > div#formulario {
+        float: right;
+        width: 70%;
+        font-size: 1.5em;
+    }
+}
